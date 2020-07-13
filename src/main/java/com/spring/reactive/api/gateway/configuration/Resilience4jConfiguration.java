@@ -1,4 +1,4 @@
-package com.dassuncao.reactive.api.gateway.configuration;
+package com.spring.reactive.api.gateway.configuration;
 
 import io.github.resilience4j.circuitbreaker.CircuitBreakerConfig;
 import io.github.resilience4j.timelimiter.TimeLimiterConfig;

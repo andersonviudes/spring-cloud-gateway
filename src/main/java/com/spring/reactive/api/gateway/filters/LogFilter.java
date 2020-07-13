@@ -1,4 +1,4 @@
-package com.dassuncao.reactive.api.gateway.filters;
+package com.spring.reactive.api.gateway.filters;
 
 import lombok.Value;
 import lombok.extern.slf4j.Slf4j;

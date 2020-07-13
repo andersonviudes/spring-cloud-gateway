@@ -1,4 +1,4 @@
-package com.dassuncao.reactive.api.gateway;
+package com.spring.reactive.api.gateway;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
